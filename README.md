@@ -7,7 +7,7 @@ Screenshot:
 ![browser-ss](https://user-images.githubusercontent.com/64413107/113492252-c2bc0d80-94f3-11eb-9d92-c8cdf7fc6960.jpg)
 
 Caption - A green border is displayed because the address is ending with HTTPS not with HTTP
-          If the address would've been ended with HTTP protocol it doesn't displays any border
+          If the address would've been ended with HTTP protocol it wouldn't have displayed any border
           
           
           
