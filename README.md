@@ -9,6 +9,9 @@ Screenshot:
 Caption - A green border is displayed because the address is ending with HTTPS not with HTTP
           If the address would've been ended with HTTP protocol it doesn't displays any border
           
+          
+          
+          
 About:
   This is my first browser extension ever and it is developed for #LocalHackDay Share 2021
   This extension checks and verifies that user is visiting sites ending with HTTPS and gives green border to all weblinks associated with HTTPS
